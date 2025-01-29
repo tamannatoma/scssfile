@@ -1,0 +1,10 @@
+body {
+  background-color: #ac39ac;
+}
+
+div {
+  height: 500px;
+  width: 500px;
+  background-color: #ac39ac;
+  font-size: 30px;
+}
